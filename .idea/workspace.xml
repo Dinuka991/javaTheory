@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7969840a-c629-4414-b4c0-5942d1e07857" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codePractice/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codePractice/PrimeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/designPattern/builder/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/designPattern/builder/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/DemoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/filterAndMap/FilterAndMapOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/flatMapAndCollection/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/grouping/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/grouping/GroupDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/reductionOperation/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/sorting/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/sorting/SortingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/codePractice/PrimeCheckerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2P36UQLMhdhruCH8XsLYb458DAW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.codePractice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.example.stream.flatMapAndCollection.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stream.reductionOperation.Demo" />
+      <module name="javaTheory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.stream.reductionOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterAndMapOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stream.filterAndMap.FilterAndMapOperations" />
+      <module name="javaTheory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.stream.filterAndMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stream.grouping.GroupDemo" />
+      <module name="javaTheory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.stream.grouping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stream.sorting.SortingDemo" />
+      <module name="javaTheory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.stream.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.stream.flatMapAndCollection.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stream.flatMapAndCollection.Demo" />
+      <module name="javaTheory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.stream.flatMapAndCollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.stream.flatMapAndCollection.Demo" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.SortingDemo" />
+        <item itemvalue="Application.FilterAndMapOperations" />
+        <item itemvalue="Application.GroupDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7969840a-c629-4414-b4c0-5942d1e07857" name="Changes" comment="" />
+      <created>1682673434261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682673434261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/codePractice/PrimeCheckerTest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
