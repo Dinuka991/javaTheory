@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7969840a-c629-4414-b4c0-5942d1e07857" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/CompletableFutureDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/CompletableFutureDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/CompletableFutureException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/CompletableFutureExceptionDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/CompletableFutureExceptionDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/ThreadDemo.java" afterDir="false" />
+    <list default="true" id="7969840a-c629-4414-b4c0-5942d1e07857" name="Changes" comment="CompletableFuture">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codePractice/collection/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codePractice/practice1/string/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/advance/AdEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/advance/Advance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/DemoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/grouping/GroupDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/grouping/GroupDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +63,17 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="org.example.codePractice" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.stream.advance" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadDemo">
-    <configuration name="CompletableFutureException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.exception.CompletableFutureException" />
+  <component name="RunManager" selected="Application.Advance">
+    <configuration name="Advance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stream.advance.Advance" />
       <module name="javaTheory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.exception.*" />
+          <option name="PATTERN" value="org.example.stream.advance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompletableFutureExceptionDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.exception.CompletableFutureExceptionDemo3" />
+    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.codePractice.collection.CollectionDemo" />
       <module name="javaTheory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.exception.*" />
+          <option name="PATTERN" value="org.example.codePractice.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompletableFutureExceptionDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.exception.CompletableFutureExceptionDemo4" />
+    <configuration name="GroupDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stream.grouping.GroupDemo" />
       <module name="javaTheory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.exception.*" />
+          <option name="PATTERN" value="org.example.stream.grouping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandlingDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.exception.ExceptionHandlingDemo2" />
+    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.codePractice.practice1.string.StringDemo" />
       <module name="javaTheory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.exception.*" />
+          <option name="PATTERN" value="org.example.codePractice.practice1.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Advance" />
+        <item itemvalue="Application.GroupDemo" />
+        <item itemvalue="Application.CollectionDemo" />
+        <item itemvalue="Application.StringDemo" />
         <item itemvalue="Application.ThreadDemo" />
-        <item itemvalue="Application.CompletableFutureException" />
-        <item itemvalue="Application.CompletableFutureExceptionDemo4" />
-        <item itemvalue="Application.CompletableFutureExceptionDemo3" />
-        <item itemvalue="Application.ExceptionHandlingDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,19 @@
       <option name="presentableId" value="Default" />
       <updated>1682673434261</updated>
     </task>
+    <task id="LOCAL-00001" summary="CompletableFuture">
+      <created>1683171707247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683171707247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CompletableFuture" />
+    <option name="LAST_COMMIT_MESSAGE" value="CompletableFuture" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
