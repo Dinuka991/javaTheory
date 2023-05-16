@@ -1,5 +1,6 @@
 package org.example.codePractice.collection;
 
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
@@ -18,5 +19,22 @@ public class CollectionDemo {
             }
         }
         return max;
+    }
+
+
+    /**
+     * Find the duplicate element the array
+     */
+
+    public static List<Integer> duplicateElement(int[] arr) {
+
+        List<Integer> integerList = new ArrayList<>();
+
+        for (int j : arr) {
+            integerList.add(j);
+        }
+
+
+        return null;
     }
 }
