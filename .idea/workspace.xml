@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7969840a-c629-4414-b4c0-5942d1e07857" name="Changes" comment="flat map magic">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorting/BasicSortingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/sorting/SortingWithLimiting.java" afterDir="false" />
+    <list default="true" id="7969840a-c629-4414-b4c0-5942d1e07857" name="Changes" comment="Limit with stream">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataAndTime/localDateTime/DemoLocalDateTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <recent name="org.example.stream.advance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortingWithLimiting">
+  <component name="RunManager" selected="Application.DemoLocalDateTime">
     <configuration name="BasicSortingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.sorting.BasicSortingDemo" />
       <module name="javaTheory" />
@@ -92,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlatMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.stream.flatMap.FlatMapDemo" />
+    <configuration name="DemoLocalDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataAndTime.localDateTime.DemoLocalDateTime" />
       <module name="javaTheory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.stream.flatMap.*" />
+          <option name="PATTERN" value="org.example.dataAndTime.localDateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.codePractice.practice1.string.Palindrome" />
+    <configuration name="FlatMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stream.flatMap.FlatMapDemo" />
       <module name="javaTheory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.codePractice.practice1.string.*" />
+          <option name="PATTERN" value="org.example.stream.flatMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoLocalDateTime" />
         <item itemvalue="Application.SortingWithLimiting" />
         <item itemvalue="Application.BasicSortingDemo" />
         <item itemvalue="Application.FlatMapDemo" />
         <item itemvalue="Application.CountTheOccurrences" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -171,14 +170,22 @@
       <option name="project" value="LOCAL" />
       <updated>1684241450681</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Limit with stream">
+      <created>1684598200443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684598200443</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CompletableFuture" />
     <MESSAGE value="Advance operations of stream la" />
     <MESSAGE value="flat map magic" />
-    <option name="LAST_COMMIT_MESSAGE" value="flat map magic" />
+    <MESSAGE value="Limit with stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="Limit with stream" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
