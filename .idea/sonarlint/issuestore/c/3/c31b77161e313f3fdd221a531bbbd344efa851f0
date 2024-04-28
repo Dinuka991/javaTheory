@@ -1,0 +1,10 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ì¯şÛüÿÿÿÿJ$19f30b76-2fff-4e8a-aa44-bb6d2bb9fad0
+
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(¿¿®J$68a8a64f-16f6-4a23-9bbf-864444a64223
+{
+java:S1854	":Remove this useless assignment to local variable "future".(ÊŸ±…üÿÿÿÿJ$3aa7739f-a789-41dc-a83d-d4be909b9294
+l
+java:S1481	"+Remove this unused "future" local variable.(ÊŸ±…üÿÿÿÿJ$acd4b61a-5ca3-4213-8a9c-30a798fe28b2
+€
+java:S1128"DRemove this unused import 'java.util.concurrent.ExecutionException'.(¡£ØÍJ$7515f36d-4dbb-4d2a-a154-5b0100436118

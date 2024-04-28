@@ -1,0 +1,19 @@
+
+
+java:S1192"FDefine a constant instead of duplicating this literal "Hello" 5 times.(“ωÒύύÿÿÿÿ8ρ®Ο–ς1J$eea05205-dd2f-4ac6-94e9-3c3c2fcbd74f
+Ά
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ªτσ8Μ‡Σ–ς1J$128a822b-734d-4d1a-a358-e89f5e0604d7
+€
+java:S1854"8Remove this useless assignment to local variable "str4".(―ΤΨ–ωÿÿÿÿ8χ®Ο–ς1J$6d803f3f-81fb-4532-9ae1-cdd00ab592e2
+{
+java:S1854"8Remove this useless assignment to local variable "str3".(ϊΚΆ8χ®Ο–ς1J$3eea3c55-9c06-4c55-a907-82e6a24c20b4
+h
+java:S2129	" Remove this "String" constructor(”νώÿÿÿÿ8ψ®Ο–ς1J$04141015-fe53-47f9-96a3-b22d01c9ea56
+l	java:S106"+Replace this use of System.out by a logger.(ƒΪαB8ω®Ο–ς1J$d798c496-cc91-409f-8212-9b84eba2c18d
+r	java:S106"+Replace this use of System.out by a logger.(“χόÿÿÿÿ8ω®Ο–ς1J$efe1f55d-6a27-4b93-a720-4b4be661a4fe
+l
+java:S1481")Remove this unused "str3" local variable.(ϊΚΆ8ω®Ο–ς1J$c25149db-f52f-414e-9636-ea99f7a193db
+q
+java:S1481")Remove this unused "str4" local variable.(―ΤΨ–ωÿÿÿÿ8ϊ®Ο–ς1J$1abea70f-a305-41f4-b3df-691611af6389
+r	java:S106"+Replace this use of System.out by a logger.(εφ΅½ϊÿÿÿÿ8²ΫΡ–ς1J$eb924b01-0be7-4e29-bc2c-45c3a9aab81b
+m	java:S106"+Replace this use of System.out by a logger.(„—φ’8Ξ§Σ–ς1J$3441e470-6da4-41cc-91c1-54942cff110c

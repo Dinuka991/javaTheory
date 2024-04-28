@@ -1,0 +1,6 @@
+
+k	java:S106"+Replace this use of System.out by a logger.(ï­å·üÿÿÿÿJ$b1c717d1-6ba4-4484-a332-0b11a4f971b7
+p
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿJ$48bc5d9f-4a46-4089-b4fb-177135fc45bb
+€
+java:S1128"DRemove this unused import 'java.util.concurrent.ExecutionException'.(¡£ØÍJ$89a74f1c-83a0-49ad-8b66-6a98064f1fb8

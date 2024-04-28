@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è‚š¤øÿÿÿÿ8û³ËÓÛ1J$a402bc92-3c7a-400f-aaa8-20817fce0571
+ 
+java:S4144+"^Update this method so that its implementation is not identical to "migratoryBirds" on line 25.(Ş•ùw8ÕÌèÓÛ1J$0dcf1e7e-1b2b-474e-abaf-a9b3668bc65c
+m	java:S106"+Replace this use of System.out by a logger.(Í®Şï8äšäÓÛ1J$aa355e59-9a71-4f44-8992-6a824bb96bee
+m	java:S106"+Replace this use of System.out by a logger.(Ëû—ü8äšäÓÛ1J$45ee4ad6-053b-4f1f-b611-ff31719ae5bd
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÉÊçÓÛ1J$d1f84762-8d52-425f-bc2d-82adcd9fd917
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(¢”•¤ıÿÿÿÿ8ÜÌèÓÛ1J$301e26e9-4d69-48b0-a80d-1de732735a60
