@@ -24,7 +24,6 @@ public class Advance {
             System.out.println(countAge.getAsDouble());
         }
 
-
         /**
          * Average age of the employee base on gender
          */
