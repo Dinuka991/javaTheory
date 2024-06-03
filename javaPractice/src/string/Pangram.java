@@ -1,27 +1,27 @@
 package string;
 
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class Pangram {
     public static void main(String[] args) {
-        System.out.println(pangrams("We promptly judged antique ivory buckles for the next prize"));
+        System.out.println(pangrams("We  judged antique ivory buckles for the next prize"));
     }
 
     public static String pangrams(String s) {
         // Write your code here
 
+        String s1 = s.toLowerCase().replaceAll("[^a-z]","");
 
-        List<Character> list = List.of('a','b','c','d','e','h','i','j','k','l','m','n'
-                ,'m','o','p','q','r','s','t','u','v','x','y','z');
-
-        for(int j=0; j < s.length() ; j ++){
-            if( list.contains(s.charAt(j))){
-                return "pangram";
-            }
+        Set<Character> myCharSet =  new HashSet<>();
+        for(int i = 0 ; i < s1.length() ; i ++){
+            myCharSet.add(s1.charAt(i));
         }
 
-        return "not pangram";
+        if(myCharSet.size() < 26){
+            return "No Pangram";
+        }
+
+        return "pangram";
     }
 
     // Type 2  Using streams
