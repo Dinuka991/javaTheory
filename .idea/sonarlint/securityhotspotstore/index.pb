@@ -472,3 +472,5 @@ w
 G.idea/sonarlint/issuestore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482,3/0/30f9777ea696a18aa49d3e9967e93a4276065227
 w
 G.idea/sonarlint/issuestore/8/d/8d5a314456287f629b6dcb63a6bf386256dc7ae1,1/d/1d45773baf5796f88d411a05526d7525dc7e45bb
+a
+1javaPractice/src/stream/sorting/FindElements.java,d/a/da3fea9c6401d9885378f0f69972276d833959d6
