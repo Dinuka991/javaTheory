@@ -1,0 +1,7 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(àˆş˜ÿÿÿÿÿ8àßøó1J$bd2737f5-d731-4dcd-a928-2abab5e2ef83
+m	java:S106"+Replace this use of System.out by a logger.(˜‘Î8­Œåøó1J$630975a8-61d2-4f77-b46e-887fef2adb14
+w
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(„ò®û8éßøó1J$87a26d6b-09a9-480b-9cfb-74ac2e32c766
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ÙÄíÒö1
