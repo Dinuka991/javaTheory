@@ -5,12 +5,15 @@
   <groupId>org.example</groupId>
   <artifactId>javaTheory</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>javaTheory</name>
   <url>http://maven.apache.org</url>
+    <modules>
+        <module>practice01</module>
+    </modules>
 
-  <properties>
+    <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>19</maven.compiler.source>
     <maven.compiler.target>19</maven.compiler.target>

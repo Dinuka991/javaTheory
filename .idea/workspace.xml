@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7969840a-c629-4414-b4c0-5942d1e07857" name="Changes" comment="Thread2">
-      <change afterPath="$PROJECT_DIR$/javaPractice/src/problem/solving/recursive/Fibonaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaPractice/src/problem/solving/recursive/FindFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaPractice/src/problem/solving/recursive/RodCutting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3ed972845b87bb1f88e2575b0f9085ef4f6fd37d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3ed972845b87bb1f88e2575b0f9085ef4f6fd37d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cd90782eb793f3e5c391c244e0f7ada519ad6ab" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cd90782eb793f3e5c391c244e0f7ada519ad6ab" afterDir="false" />
+    <list default="true" id="7969840a-c629-4414-b4c0-5942d1e07857" name="Changes" comment="rec">
+      <change afterPath="$PROJECT_DIR$/practice01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01/src/main/java/org/example/ArrayGames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01/src/main/java/org/example/stream/employee/java8/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01/src/main/java/org/example/stream/employee/java8/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01/src/test/java/org/example/ArrayGamesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +73,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Anagram.executor": "Run",
+    "Application.ArrayGames.executor": "Run",
     "Application.BasicSortingDemo.executor": "Run",
     "Application.CountPairs.executor": "Run",
     "Application.CountSubList.executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.DemoBubbleSort.executor": "Run",
     "Application.DemoBubleSort.executor": "Run",
     "Application.DemoSort.executor": "Run",
@@ -87,6 +91,7 @@
     "Application.FrequencyDemo.executor": "Run",
     "Application.LeftRotation.executor": "Run",
     "Application.LonelyInteger.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MaxProduct.executor": "Run",
     "Application.MigratoryBirds.executor": "Run",
     "Application.MinMax.executor": "Run",
@@ -100,6 +105,7 @@
     "Application.TwoNumberSum.executor": "Run",
     "Application.VowelCount.executor": "Run",
     "Application.WordCount.executor": "Run",
+    "JUnit.ArrayGamesTest.executor": "Run",
     "Maven.javaTheory [clean].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -109,6 +115,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/dinukaekanayake/Desktop/Goal2024/javaTheory/practice01/src/test/java",
     "last_opened_file_path": "/Users/dinukaekanayake/Desktop/Goal2024/javaTheory",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -135,7 +142,7 @@
       <recent name="org.example.stream.advance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RodCutting">
+  <component name="RunManager" selected="JUnit.ArrayGamesTest.testFindSecondLargestElementArray">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -166,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExecutorServiceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.thread.intermidate.ExecutorServiceExample" />
-      <module name="javaTheory" />
+    <configuration name="ArrayGames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayGames" />
+      <module name="practice01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.thread.intermidate.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.solving.recursive.Fibonaci" />
-      <module name="javaPractice" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stream.employee.java8.Demo" />
+      <module name="practice01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problem.solving.recursive.*" />
+          <option name="PATTERN" value="org.example.stream.employee.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDownloadService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.thread.fileDownload.FileDownloadService" />
-      <module name="javaTheory" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="practice01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.thread.fileDownload.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,46 +212,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.solving.recursive.FindFactorial" />
-      <module name="javaPractice" />
+    <configuration name="ArrayGamesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problem.solving.recursive.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayGamesTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RodCutting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.solving.recursive.RodCutting" />
-      <module name="javaPractice" />
+    <configuration name="ArrayGamesTest.testFindSecondLargestElementArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problem.solving.recursive.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayGamesTest" />
+      <option name="METHOD_NAME" value="testFindSecondLargestElementArray" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Fibonaci" />
-      <item itemvalue="Application.FindFactorial" />
-      <item itemvalue="Application.RodCutting" />
-      <item itemvalue="Application.ExecutorServiceExample" />
-      <item itemvalue="Application.FileDownloadService" />
+      <item itemvalue="Application.ArrayGames" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ArrayGamesTest" />
+      <item itemvalue="JUnit.ArrayGamesTest.testFindSecondLargestElementArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RodCutting" />
-        <item itemvalue="Application.FindFactorial" />
-        <item itemvalue="Application.Fibonaci" />
-        <item itemvalue="Application.FileDownloadService" />
-        <item itemvalue="Application.ExecutorServiceExample" />
+        <item itemvalue="JUnit.ArrayGamesTest.testFindSecondLargestElementArray" />
+        <item itemvalue="JUnit.ArrayGamesTest" />
+        <item itemvalue="Application.ArrayGames" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +297,8 @@
       <workItem from="1717338176425" duration="440000" />
       <workItem from="1717339007575" duration="157000" />
       <workItem from="1717339181868" duration="36632000" />
-      <workItem from="1717771921405" duration="5365000" />
+      <workItem from="1717771921405" duration="7077000" />
+      <workItem from="1717823798403" duration="7781000" />
     </task>
     <task id="LOCAL-00001" summary="CompletableFuture">
       <created>1683171707247</created>
@@ -435,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717632928363</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="rec">
+      <option name="closed" value="true" />
+      <created>1717804667667</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717804667667</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +479,8 @@
     <MESSAGE value="sort operation with streams" />
     <MESSAGE value="TwoNumberSum" />
     <MESSAGE value="Thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread" />
+    <MESSAGE value="rec" />
+    <option name="LAST_COMMIT_MESSAGE" value="rec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
