@@ -1,6 +1,6 @@
 package array.basic;
 
-import java.util.Arrays;
+
 
 public class MinMax {
     public static void main(String[] args) {

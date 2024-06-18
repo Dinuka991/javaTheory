@@ -494,8 +494,6 @@ B
 practice01/pom.xml,a/4/a45ed4e4c81a55044e4ed2f4426b05741b433564
 ^
 .practice01/src/main/java/org/example/Main.java,c/f/cf56162014593e46bc2ebac7d12cc0a903173f81
-r
-Bpractice01/src/main/java/org/example/stream/employee/Employee.java,f/c/fc129a28109bf38d254fb308982482c1a848fdbe
 x
 Hpractice01/src/main/java/org/example/stream/employee/java8/Employee.java,e/6/e629548b8b8821a38cdd42c268215803f3256547
 t
@@ -503,6 +501,10 @@ Dpractice01/src/main/java/org/example/stream/employee/java8/Demo.java,9/3/93d0a
 d
 4practice01/src/main/java/org/example/ArrayGames.java,d/9/d9c6711a53e9273eddbf7bc942a255202f388cc9
 h
-8practice01/src/main/java/org/example/ArrayGamesTest.java,3/e/3eb9f73001814a33c0ebd8b8e5d9b9c31224eb92
-h
 8practice01/src/test/java/org/example/ArrayGamesTest.java,8/6/866395efb0fd09de4ad0d3a30f2a7c7b4c291f5c
+=
+udemy/pom.xml,8/b/8b4627252949397986978c1bb6e794ab251f5430
+X
+(udemy/src/main/java/org/example/App.java,7/e/7ee7fe24db846d2873f85a939effeac5dc5425aa
+\
+,udemy/src/test/java/org/example/AppTest.java,e/f/ef385ee0f0698d89289744bb85017e990a8142a5

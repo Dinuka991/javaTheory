@@ -11,6 +11,7 @@
   <url>http://maven.apache.org</url>
     <modules>
         <module>practice01</module>
+        <module>udemy</module>
     </modules>
 
     <properties>
