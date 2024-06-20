@@ -1,0 +1,20 @@
+
+	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(ŸÚæùÿÿÿÿ8Í†õı1J$2c4b245f-401d-455c-b962-19a8c76a9f01
+	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(ŸÚæùÿÿÿÿ8Í†õı1J$cf763efc-c324-4e44-9995-1335d2f982c6
+	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(ŸÚæùÿÿÿÿ8Í†õı1J$272be64b-066f-4f3f-8403-0216ae9d80fd
+	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(ŸÚæùÿÿÿÿ8Í†õı1J$9badb52b-af8a-47bb-b2b6-e52da098b5e7
+	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(ŸÚæùÿÿÿÿ8Î†õı1J$d7cd1c6a-d778-45a7-acaf-e2496f1ef404
+¨
+java:S1192"`Define a constant instead of duplicating this literal "No second largest element found" 9 times.(¡­¯Ãıÿÿÿÿ8Î†õı1J$8c419d9a-e01a-409d-b6bb-d82704e280a4
+m	java:S106"+Replace this use of System.out by a logger.(ªÈÜ8Ï†õı1J$26fb95f4-3d3e-4fba-a90f-ed0b06898f95
+l	java:S106"+Replace this use of System.out by a logger.(•í¤}8Ï†õı1J$8d5f6ac6-a814-4a74-9212-72283d0b6591
+l	java:S106"+Replace this use of System.out by a logger.(«Ìò68Ï†õı1J$4e97de58-4f2f-401d-aff3-1bfedd3669b8
+m	java:S106"+Replace this use of System.out by a logger.(¾©ŸÙ8Ï†õı1J$c00df39a-a959-4034-a697-ddbce3dbe40d
+l	java:S106"+Replace this use of System.out by a logger.(º°À8Ï†õı1J$09fbc448-5e53-417f-80ea-9479206c92cc
+r	java:S106"+Replace this use of System.out by a logger.(Å¿·Áøÿÿÿÿ8Ï†õı1J$ad8f41cf-fd26-44f2-bcba-fa3d76a82e02
+m	java:S106"+Replace this use of System.out by a logger.(õëüˆ8Ï†õı1J$bd66c9fe-d5cb-4e8e-85ea-b9b0a36a2f2f
+l	java:S106"+Replace this use of System.out by a logger.(Šåo8Ğ†õı1J$6e633ec0-d376-4dad-a396-6cd23fc8e193
+r	java:S106"+Replace this use of System.out by a logger.(ñĞşïúÿÿÿÿ8Ğ†õı1J$d507e622-35b1-4ebf-b7dd-ee9fad397db5
+m	java:S106"+Replace this use of System.out by a logger.(êà“²8Ğ†õı1J$2b40eecc-a3d5-441d-b5dc-de3dd0e2e48d
+g
+java:S1659F"$Declare "second" on a separate line.(…¬±‹8Ô†õı1J$7e65f430-0b1a-4ea8-96f2-3bc778ba2edc

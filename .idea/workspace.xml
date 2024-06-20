@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7969840a-c629-4414-b4c0-5942d1e07857" name="Changes" comment="thales practice">
-      <change afterPath="$PROJECT_DIR$/udemy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="7969840a-c629-4414-b4c0-5942d1e07857" name="Changes" comment="udemy course practices">
+      <change afterPath="$PROJECT_DIR$/demo-interviews/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-interviews/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-interviews/src/main/java/org/example/day/one/LongestSubstringWithoutRepeatingChracters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-interviews/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41807d22605f3fc61aeee45b000cb90ed25579ee" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41807d22605f3fc61aeee45b000cb90ed25579ee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e08e9850438b7c2a4d681a04eaa1ae7570d08c19" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e08e9850438b7c2a4d681a04eaa1ae7570d08c19" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice/src/array/basic/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaPractice/src/array/basic/MinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +90,7 @@
     "Application.FrequencyDemo.executor": "Run",
     "Application.LeftRotation.executor": "Run",
     "Application.LonelyInteger.executor": "Run",
+    "Application.LongestSubstringWithoutRepeatingChracters.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxProduct.executor": "Run",
     "Application.MigratoryBirds.executor": "Run",
@@ -146,7 +145,7 @@
       <recent name="org.example.stream.advance" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayGamesTest.testFindSecondLargestElementArray">
+  <component name="RunManager" selected="Application.LongestSubstringWithoutRepeatingCharacters">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -177,6 +176,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="demo-interviews" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayGames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ArrayGames" />
       <module name="practice01" />
@@ -190,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.stream.employee.java8.Demo" />
+    <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.mock.LongestSubstringWithoutRepeatingCharacters" />
       <module name="practice01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.stream.employee.java8.*" />
+          <option name="PATTERN" value="org.example.mock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,30 +215,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="practice01" />
+    <configuration name="LongestSubstringWithoutRepeatingChracters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day.one.LongestSubstringWithoutRepeatingChracters" />
+      <module name="demo-interviews" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.day.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayGamesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ArrayGamesTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -248,19 +245,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
+      <item itemvalue="Application.LongestSubstringWithoutRepeatingChracters" />
       <item itemvalue="Application.ArrayGames" />
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.ArrayGamesTest" />
       <item itemvalue="JUnit.ArrayGamesTest.testFindSecondLargestElementArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayGamesTest.testFindSecondLargestElementArray" />
-        <item itemvalue="JUnit.ArrayGamesTest" />
+        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
         <item itemvalue="Application.ArrayGames" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.LongestSubstringWithoutRepeatingChracters" />
+        <item itemvalue="JUnit.ArrayGamesTest.testFindSecondLargestElementArray" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +304,8 @@
       <workItem from="1718288547887" duration="4220000" />
       <workItem from="1718667777063" duration="2115000" />
       <workItem from="1718716662257" duration="1468000" />
-      <workItem from="1718743715375" duration="2708000" />
+      <workItem from="1718743715375" duration="5391000" />
+      <workItem from="1718854556059" duration="3338000" />
     </task>
     <task id="LOCAL-00001" summary="CompletableFuture">
       <created>1683171707247</created>
@@ -473,7 +471,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717937624560</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="udemy course practices">
+      <option name="closed" value="true" />
+      <created>1718747294167</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1718747294167</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +504,8 @@
     <MESSAGE value="Thread" />
     <MESSAGE value="rec" />
     <MESSAGE value="thales practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="thales practice" />
+    <MESSAGE value="udemy course practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="udemy course practices" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

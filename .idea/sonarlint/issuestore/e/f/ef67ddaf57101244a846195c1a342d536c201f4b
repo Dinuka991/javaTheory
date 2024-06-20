@@ -1,0 +1,9 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(Æ¶Êøÿÿÿÿ8¿®øü1J$4c4748d6-e611-4927-9b1c-a2c171dd38d9
+‚
+java:S1854":Remove this useless assignment to local variable "length".(’‡¬ùÿÿÿÿ8¿®øü1J$fd101402-cd0b-46ce-b575-77a4e7329658
+s
+java:S1481"+Remove this unused "length" local variable.(’‡¬ùÿÿÿÿ8À®øü1J$95eea9ec-f37b-4cba-a0e9-20d22d896e9c
+n
+java:S1481"+Remove this unused "revers" local variable.(®òÜ—8À®øü1J$c8f0f2dc-d497-47e9-b05a-e0d41c059846
+r	java:S106$"+Replace this use of System.out by a logger.(Î®ôëùÿÿÿÿ8Á®øü1J$e665b67b-ce97-445d-a141-9c5af15e4c4c

@@ -1,0 +1,8 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÊÜ¹Õş1J$283f5d35-24f2-4f50-bf30-c23fbeef298f
+•
+java:S2095	"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(è¨ŠÔûÿÿÿÿ8ÌÜ¹Õş1J$71f06977-bb18-4614-b767-4cfde25f64dd
+r	java:S106"+Replace this use of System.out by a logger.(×²ë†üÿÿÿÿ8ÍÜ¹Õş1J$618fd8e8-ea2c-4e9e-9cc4-5d78c87d1677
+r	java:S106"+Replace this use of System.out by a logger.(×Öèµúÿÿÿÿ8ÏÜ¹Õş1J$676da239-1ea0-43a9-a1c1-ed1da9360345
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ĞÜ¹Õş1J$8e653cb5-f4cc-43b3-baba-7d7870fbc641

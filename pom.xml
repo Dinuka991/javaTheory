@@ -12,6 +12,8 @@
     <modules>
         <module>practice01</module>
         <module>udemy</module>
+        <module>demo-interviews</module>
+        <module>mock-interviews</module>
     </modules>
 
     <properties>

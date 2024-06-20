@@ -1,0 +1,7 @@
+
+r	java:S106
+"+Replace this use of System.out by a logger.(…œş³üÿÿÿÿ8¯¿Îûü1J$db8830a1-c2dc-4f56-92a9-748864ee7d4a
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8°¿Îûü1J$70b1a687-828e-4f06-99d1-2e1277ae5cdc
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8°¿Îûü1J$d9a7ce0f-0658-4920-aaa7-f884062218cd
